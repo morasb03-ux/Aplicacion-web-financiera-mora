@@ -1,0 +1,6 @@
+{
+  "name": "Mora - Gestión Contable y Financiera",
+  "description": "Aplicación de gestión contable e información financiera con módulos de conversión de tasas, valor del dinero en el tiempo, diagramas económicos y amortización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
